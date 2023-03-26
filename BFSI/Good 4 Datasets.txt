@@ -1,0 +1,7 @@
+https://statso.io/case-studies/
+
+Data Science Project Ideas on Finance:
+1. Algorithmic Trading (Dataset: https://lnkd.in/gVxX49Zf)
+2. Credit Score Classification (Dataset: https://lnkd.in/gqXvPh94)
+3. Online Payments Fraud Detection (Dataset: https://lnkd.in/gGCKqPhE)
+4. Payment Source Analysis (Dataset: https://lnkd.in/g5MdR4_4)
